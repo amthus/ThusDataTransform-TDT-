@@ -38,7 +38,7 @@ npm install
 ## Démarrage
 ```bash
 # Backend
-flask run
+python app.py
 
 # Frontend
 npm start
