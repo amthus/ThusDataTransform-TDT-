@@ -1,0 +1,12 @@
+flask
+flask-cors
+pandas
+pytesseract
+Pillow
+pdfplumber
+python-docx
+requests
+beautifulsoup4
+sqlalchemy
+numpy
+scikit-learn
